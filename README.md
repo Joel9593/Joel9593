@@ -1,3 +1,4 @@
 - Joel Sinclair
 - Student at University of Liverpool
+- Computer Science With Software Engineering
 - VB, Python, Java
